@@ -1,4 +1,4 @@
-print ("olá, mundo")
+print ("Hello, World")
 
 # Solicita ao usuário para inserir dois números 
 numero1 = float(input("Digite o primeiro número: "))
